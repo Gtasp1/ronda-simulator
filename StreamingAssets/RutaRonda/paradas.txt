@@ -1,5 +1,5 @@
 # PARADAS Y SITIOS DE LA CARRETERA (A-397, de San Pedro a Ronda)
-# v5 · Paradas y sitios de la A-397 (puedes editar este archivo; no borres la marca v5)
+# v6 · Paradas y sitios de la A-397 (puedes editar este archivo; no borres la marca v6)
 # Cada línea:  PK ; lado ; tipo ; nombre ; largo ; ancho
 #   PK    = punto kilométrico real (los números de los hitos). También vale  lat,lon  (coordenadas)
 #   lado  = izq / der (yendo hacia Ronda) o auto
@@ -19,8 +19,8 @@
 36.59889,-5.07389 ; auto ; venta ; Venta El Madroño ; 70 ; 18
 25.5 ; der ; puerto ; PUERTO DEL MADROÑO\n1.060 m
 15.15 ; izq ; area ; Antigua caseta de la Cruz Roja ; 30 ; 6
-36.628827,-5.094718 ; izq ; cruce ; Puerto El Madroño\nPujerra ; 50 ; 7
-36.670316,-5.115948 ; izq ; cruce ; Igualeja ; 50 ; 7
+36.611759,-5.074216 ; izq ; cruce ; Puerto El Madroño\nPujerra ; 50 ; 7
+36.628875,-5.094698 ; izq ; cruce ; Igualeja ; 50 ; 7
 36.672912,-5.120308 ; izq ; cruce ; Parauta · Cartajima ; 45 ; 7
 36.689916,-5.120458 ; izq ; cruce ; Cantera ; 45 ; 8
 9.28 ; izq ; cartel ; Cantera

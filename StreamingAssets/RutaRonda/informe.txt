@@ -69,7 +69,8 @@ Paradas y sitios (63):
   PK 28.89 · izq · area       · 99 x 24 m · (sin nombre)
   PK 28.20 · izq · cruce      · 26 x 6 m · (sin nombre)
   PK 27.67 · izq · venta      · 70 x 26 m · Venta El Madroño
-  PK 26.07 · izq · cruce      · 26 x 6 m · (sin nombre)
+  PK 26.07 · izq · cruce      · 50 x 7 m · Puerto El Madroño
+Pujerra
   PK 25.33 · der · cruce      · 26 x 6 m · (sin nombre)
   PK 25.26 · der · cruce      · 26 x 6 m · (sin nombre)
   PK 24.33 · der · cruce      · 26 x 6 m · (sin nombre)
@@ -83,8 +84,7 @@ Paradas y sitios (63):
   PK 21.53 · izq · area       · 52 x 23 m · (sin nombre)
   PK 20.97 · der · cruce      · 26 x 6 m · (sin nombre)
   PK 20.89 · der · cruce      · 26 x 6 m · (sin nombre)
-  PK 19.15 · izq · cruce      · 50 x 7 m · Puerto El Madroño
-Pujerra
+  PK 19.15 · izq · cruce      · 50 x 7 m · Igualeja
   PK 18.44 · izq · cruce      · 26 x 6 m · (sin nombre)
   PK 17.26 · der · cruce      · 26 x 6 m · (sin nombre)
   PK 17.08 · izq · area       · 69 x 19 m · (sin nombre)
@@ -96,7 +96,7 @@ Pujerra
   PK 14.53 · der · cruce      · 26 x 6 m · (sin nombre)
   PK 13.67 · der · cruce      · 26 x 6 m · Camino de Cajigales
   PK 12.74 · izq · venta      · 99 x 26 m · La Laja
-  PK 11.84 · der · cruce      · 50 x 7 m · Igualeja
+  PK 11.84 · der · cruce      · 26 x 6 m · Camino de Las Cobatillas
   PK 11.61 · izq · gasolinera · 90 x 34 m · E.S. La Ventilla
   PK 11.30 · izq · cruce      · 45 x 7 m · Parauta · Cartajima
   PK 10.43 · der · cruce      · 26 x 6 m · (sin nombre)
@@ -114,6 +114,6 @@ Pujerra
   PK  3.80 · der · cruce      · 26 x 6 m · (sin nombre)
   PK  3.80 · izq · cruce      · 26 x 6 m · (sin nombre)
 
-Edificios: 194 · Carteles y señales: 96 · Glorietas: 3
+Edificios: 194 · Carteles y señales: 98 · Glorietas: 3
 
 Teselas de altitud: 19 correctas, 0 fallidas.
