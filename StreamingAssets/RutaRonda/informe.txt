@@ -4,7 +4,7 @@ Longitud: 43.01 km (10753 estaciones cada 4 m)
 Puntos kilométricos: del PK 46.67 (San Pedro) al PK 3.25 (Ronda). Origen: 35 señales de nivelación del IGN
 Altitud: 48 m en la salida, 741 m en la llegada, máxima 1125 m en el PK 16.5. Subida acumulada: 1457 m
 Pendiente máxima: 11.0 % (PK 30.8). Curva más cerrada: radio 33 m (PK 23.1). Curvas de radio < 120 m: 239 (5.6 por km)
-Puentes: 776 m en total. Quitamiedos: 23.2 km a la izquierda y 7.8 km a la derecha (sentido Ronda)
+Puentes: 776 m en total. Quitamiedos: 23.1 km a la izquierda y 7.8 km a la derecha (sentido Ronda)
 
 Lo que debería salir (datos reales): unos 43 km, PK 46,7 → 3,4, salida a unos 58 m de altitud,
 Puerto del Madroño (PK 25,5) a 1.060 m, techo de la carretera cerca del PK 15 (unos 1.095 m), llegada a unos 740 m.
@@ -48,7 +48,7 @@ Altitud corregida con 28 señales. El modelo del terreno se desviaba de media +1
     4.40 ·   772.3 m ·   772.2 m ·   +0.0 m ·    9 m
     3.70 ·   748.6 m ·   754.6 m ·   +6.0 m ·    5 m  (trazado antiguo: solo se usa el PK)
 
-Paradas y sitios (62):
+Paradas y sitios (63):
   PK 45.93 · der · venta      · 64 x 9 m · Venta
   PK 44.86 · izq · venta      · 64 x 26 m · Venta Los Almendros
   PK 43.54 · der · area       · 52 x 26 m · (sin nombre)
@@ -83,6 +83,8 @@ Paradas y sitios (62):
   PK 21.53 · izq · area       · 52 x 23 m · (sin nombre)
   PK 20.97 · der · cruce      · 26 x 6 m · (sin nombre)
   PK 20.89 · der · cruce      · 26 x 6 m · (sin nombre)
+  PK 19.15 · izq · cruce      · 50 x 7 m · Puerto El Madroño
+Pujerra
   PK 18.44 · izq · cruce      · 26 x 6 m · (sin nombre)
   PK 17.26 · der · cruce      · 26 x 6 m · (sin nombre)
   PK 17.08 · izq · area       · 69 x 19 m · (sin nombre)
@@ -94,9 +96,9 @@ Paradas y sitios (62):
   PK 14.53 · der · cruce      · 26 x 6 m · (sin nombre)
   PK 13.67 · der · cruce      · 26 x 6 m · Camino de Cajigales
   PK 12.74 · izq · venta      · 99 x 26 m · La Laja
-  PK 11.84 · der · cruce      · 26 x 6 m · Camino de Las Cobatillas
+  PK 11.84 · der · cruce      · 50 x 7 m · Igualeja
   PK 11.61 · izq · gasolinera · 90 x 34 m · E.S. La Ventilla
-  PK 11.30 · izq · cruce      · 45 x 7 m · Igualeja · Pujerra
+  PK 11.30 · izq · cruce      · 45 x 7 m · Parauta · Cartajima
   PK 10.43 · der · cruce      · 26 x 6 m · (sin nombre)
   PK  9.45 · izq · mirador    · 60 x 12 m · Mirador del Guarda Forestal
   PK  9.08 · izq · cruce      · 45 x 8 m · Cantera
@@ -112,6 +114,6 @@ Paradas y sitios (62):
   PK  3.80 · der · cruce      · 26 x 6 m · (sin nombre)
   PK  3.80 · izq · cruce      · 26 x 6 m · (sin nombre)
 
-Edificios: 194 · Carteles y señales: 75 · Glorietas: 3
+Edificios: 194 · Carteles y señales: 96 · Glorietas: 3
 
 Teselas de altitud: 19 correctas, 0 fallidas.

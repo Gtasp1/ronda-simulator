@@ -1,5 +1,5 @@
 # PARADAS Y SITIOS DE LA CARRETERA (A-397, de San Pedro a Ronda)
-# v3 · Paradas y sitios de la A-397 (puedes editar este archivo; no borres la marca v3)
+# v4 · Paradas y sitios de la A-397 (puedes editar este archivo; no borres la marca v4)
 # Cada línea:  PK ; lado ; tipo ; nombre ; largo ; ancho
 #   PK    = punto kilométrico real (los números de los hitos). También vale  lat,lon  (coordenadas)
 #   lado  = izq / der (yendo hacia Ronda) o auto
@@ -14,6 +14,7 @@
 39.25 ; izq ; cartel ; La Zagaleta
 36.5 ; der ; area ; Apartadero ; 60 ; 7
 35.1 ; auto ; area ; La Palmitera (casa de peones camineros) ; 40 ; 7
+30.45 ; der ; radar ; RADAR DE TRAMO
 36.58667,-5.06750 ; der ; fuente ; Fuente El Chorrillo ; 44 ; 7
 36.59889,-5.07389 ; auto ; venta ; Venta El Madroño ; 70 ; 18
 25.5 ; der ; puerto ; PUERTO DEL MADROÑO\n1.060 m
